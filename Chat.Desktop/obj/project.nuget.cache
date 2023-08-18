@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "M3Wk3mhKsIkY0kq2innuDqmTjqsYwZ/58xI2D0YwU0hfYRx5L+j/AcPkWaZPkP3wiJjcc98cyVKRCS/g7q5TuA==",
+  "success": true,
+  "projectFilePath": "D:\\Student\\PRN221\\PRN221Chat\\Chat.Desktop\\Chat.Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.6\\microsoft.aspnetcore.connections.abstractions.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.6\\microsoft.aspnetcore.http.connections.client.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.6\\microsoft.aspnetcore.http.connections.common.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.6\\microsoft.aspnetcore.http.features.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.6\\microsoft.aspnetcore.signalr.client.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.6\\microsoft.aspnetcore.signalr.client.core.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.6\\microsoft.aspnetcore.signalr.common.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.6\\microsoft.aspnetcore.signalr.protocols.json.5.0.6.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Thanh Phuc\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

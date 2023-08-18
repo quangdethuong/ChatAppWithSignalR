@@ -1,0 +1,12 @@
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\bin\Debug\net5.0\Chat.ViewModels.deps.json
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\bin\Debug\net5.0\Chat.ViewModels.dll
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\bin\Debug\net5.0\Chat.ViewModels.pdb
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\Chat.ViewModels.csproj.AssemblyReference.cache
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\Chat.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\Chat.ViewModels.AssemblyInfoInputs.cache
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\Chat.ViewModels.AssemblyInfo.cs
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\Chat.ViewModels.csproj.CoreCompileInputs.cache
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\Chat.ViewModels.dll
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\refint\Chat.ViewModels.dll
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\Chat.ViewModels.pdb
+D:\Student\PRN221\PRN221Chat\Chat.ViewModel\obj\Debug\net5.0\ref\Chat.ViewModels.dll
